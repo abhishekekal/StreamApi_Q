@@ -1,4 +1,5 @@
-Stream API Practice Questions
+#Stream API Practice Questions
+
 This repository contains solutions to Java 8 Stream API practice questions.
 It includes examples and problems related to filtering, mapping, grouping, and other common operations using the Stream API.
 
@@ -6,14 +7,12 @@ It includes examples and problems related to filtering, mapping, grouping, and o
 
 Run the examples to learn and practice Stream API concepts.
 
-Topics Covered:- 
+#Topics Covered:- 
 
 1.Filtering and Mapping
 2.Grouping and Counting
 3.Sorting and Reducing
 4.Duplicate Element Handling
-.5Custom Stream Operations
+5.Custom Stream Operations
 
-Requirements:- 
-Java 8 or higher
-A Java IDE or text editor
+
